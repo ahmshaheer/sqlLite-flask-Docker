@@ -6,7 +6,9 @@ Keep track of your notes with Flask-Notes, a simple notes app. Some features inc
 * 🎨 Font and color customization	
 * 🗃️ Organized into folders and sections
 
-Added Docker file 
+
+
+Working on AWS EC2 and used Docker file to containerzied the application
 
 <img width="1428" alt="Screenshot 2025-01-07 at 7 39 02 PM" src="https://github.com/user-attachments/assets/6dc1d3bc-d6eb-4d65-9129-301c663f483a" />
 
